@@ -1,5 +1,8 @@
 # Public Key Cryptography Basics
 
+![TryHackMe](https://img.shields.io/badge/TryHackMe-Cyber%20Security%20101-green)
+![Status](https://img.shields.io/badge/Progress-61%25-blue)
+
 > TryHackMe – Cyber Security 101
 
 ## One-sentence summary
